@@ -195,6 +195,8 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
     { MODKEY,               XK_u,           kscrollup,      {.i =  1} },
     { MODKEY,               XK_d,           kscrolldown,    {.i =  1} },
+    { MODKEY,               XK_l,           copyurl,        {.i =  0} },
+
 };
 
 /*
